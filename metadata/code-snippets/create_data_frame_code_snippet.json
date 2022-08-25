@@ -1,0 +1,12 @@
+{
+  "display_name": "create_dataframe_code_snippet",
+  "metadata": {
+    "language": "python",
+    "code": [
+      "def create_df():",
+      "    df = pandas.DataFrame([{'Name': 'Robert', 'Age': 37}, {'Name': 'Bob', 'Age': 40})",
+      "    print(' ****** DataFrame ******** \n', df)"
+    ]
+  },
+  "schema_name": "code-snippet"
+}
