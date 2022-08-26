@@ -1,0 +1,13 @@
+{
+  "display_name": "create_list_code_snippet",
+  "metadata": {
+    "language": "python",
+    "code": [
+      "def create_list():",
+      "    lst = list()",
+      "    lst.append('xyz')",
+      "    print(lst)"
+    ]
+  },
+  "schema_name": "code-snippet"
+}
