@@ -36,6 +36,12 @@
             "uniqueItems": true,
             "default": []
         }
+        "fileArray": {
+            "type": "array",
+            "items": { "type": "file" },
+            "uniqueItems": true,
+            "default": []
+        }
     },
     "type": ["object", "boolean"],
     "properties": {
@@ -45,7 +51,7 @@
         },
         "$schema": {
             "type": "string",
-            "format": "uri"
+            "format": "uri-reference"
         },
         "$ref": {
             "type": "string",
