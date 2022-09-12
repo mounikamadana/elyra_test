@@ -1,6 +1,6 @@
 {
-  "$schema": "https://github.com/mounikamadana/elyra_test/json-schema.json",
-  "$id": "https://github.com/mounikamadana/elyra_test/meta-schema.json",
+  "$schema": "https://github.com/mounikamadana/elyra_test/blob/main/json-schema.json",
+  "$id": "https://github.com/mounikamadana/elyra_test/blob/main/meta-schema.json",
   "title": "Meta-schema for metadata service schemas",
   "properties": {
     "schemaspace_id": {
