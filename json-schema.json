@@ -1,6 +1,6 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "http://json-schema.org/draft-07/schema#",
+    "$schema": "https://github.com/mounikamadana/elyra_test/blob/main/json-schema.json",
+    "$id": "https://github.com/mounikamadana/elyra_test/blob/main/json-schema.json",
     "title": "Core schema meta-schema",
     "definitions": {
         "schemaArray": {
